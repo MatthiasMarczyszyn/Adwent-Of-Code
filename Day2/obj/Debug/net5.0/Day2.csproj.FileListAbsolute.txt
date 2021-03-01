@@ -1,0 +1,16 @@
+/home/lagon54/Documents/C#/Advent od Code/Day2/bin/Debug/net5.0/Day2
+/home/lagon54/Documents/C#/Advent od Code/Day2/bin/Debug/net5.0/Day2.deps.json
+/home/lagon54/Documents/C#/Advent od Code/Day2/bin/Debug/net5.0/Day2.runtimeconfig.json
+/home/lagon54/Documents/C#/Advent od Code/Day2/bin/Debug/net5.0/Day2.runtimeconfig.dev.json
+/home/lagon54/Documents/C#/Advent od Code/Day2/bin/Debug/net5.0/Day2.dll
+/home/lagon54/Documents/C#/Advent od Code/Day2/bin/Debug/net5.0/ref/Day2.dll
+/home/lagon54/Documents/C#/Advent od Code/Day2/bin/Debug/net5.0/Day2.pdb
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/Day2.csprojAssemblyReference.cache
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/Day2.AssemblyInfoInputs.cache
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/Day2.AssemblyInfo.cs
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/Day2.csproj.CoreCompileInputs.cache
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/Day2.dll
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/ref/Day2.dll
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/Day2.pdb
+/home/lagon54/Documents/C#/Advent od Code/Day2/obj/Debug/net5.0/Day2.genruntimeconfig.cache
