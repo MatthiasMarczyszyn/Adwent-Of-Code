@@ -1,0 +1,16 @@
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/Day8.csprojAssemblyReference.cache
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/Day8.GeneratedMSBuildEditorConfig.editorconfig
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/Day8.AssemblyInfoInputs.cache
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/Day8.AssemblyInfo.cs
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/Day8.csproj.CoreCompileInputs.cache
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/bin/Debug/net5.0/Day8
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/bin/Debug/net5.0/Day8.deps.json
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/bin/Debug/net5.0/Day8.runtimeconfig.json
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/bin/Debug/net5.0/Day8.runtimeconfig.dev.json
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/bin/Debug/net5.0/Day8.dll
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/bin/Debug/net5.0/ref/Day8.dll
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/bin/Debug/net5.0/Day8.pdb
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/Day8.dll
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/ref/Day8.dll
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/Day8.pdb
+/home/lagon54/Documents/C#/Adwent-Of-Code/Day8/obj/Debug/net5.0/Day8.genruntimeconfig.cache
